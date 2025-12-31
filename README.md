@@ -31,6 +31,7 @@
   - Transformer fundamentals
   - Training & fine-tuning concepts
 - PyTorch
+- TensorFlow
 - scikit-learn
 - NumPy
 
