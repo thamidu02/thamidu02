@@ -34,13 +34,7 @@
 - TensorFlow
 - scikit-learn
 - NumPy
-
-### Tools
-- Git & GitHub
-- VS Code
-- Google Colab
-- Linux (basic)
-
+  
 ---
 
 ## 📌 Selected Projects
