@@ -15,6 +15,11 @@
 
 ---
 
+## Currently Working
+
+- Introduction to Reinforcement Learning
+- Building a small LLM from Scratch
+---
 ## 🧠 Core Skills
 
 ### Programming
