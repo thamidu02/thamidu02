@@ -58,15 +58,6 @@
 
 ---
 
-## 📈 How I Work
-
-- Strong focus on **fundamentals before scaling**
-- Prefer understanding *why* something works, not just *how*
-- Write readable, maintainable code
-- Learn consistently and document progress openly on GitHub  
-
----
-
 ## 🎯 Career Objective
 
 Actively seeking:
